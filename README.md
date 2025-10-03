@@ -1,6 +1,6 @@
 # Vehicle MOT Data Visualiser 🚗
 
-This repository contains a submission for the **2025 Plotnine Contest**. The Jupyter notebook retrieves and analyses MOT (Ministry of Transport) test history for a specified vehicle using the DVSA (Driver and Vehicle Standards Agency) MOT History API. It produces a two-part visualisation:
+This repository contains a submission for the **2025 Plotnine Contest**. The Jupyter notebook retrieves and analyses MOT (Ministry of Transport) test history for a specified vehicle using the DVSA (Driver and Vehicle Standards Agency) MOT History API. It produces an adaptive two-part visualisation:
 
 - A mileage plot showing the vehicle's odometer readings over time.
 - A fault plot displaying the number and severity of faults recorded during MOT tests.
