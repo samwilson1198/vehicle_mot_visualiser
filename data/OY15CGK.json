@@ -1,0 +1,150 @@
+{
+  "registration": "OY15CGK",
+  "make": "CITROEN",
+  "model": "RELAY",
+  "firstUsedDate": "2015-08-03",
+  "fuelType": "Diesel",
+  "primaryColour": "White",
+  "registrationDate": "2015-08-03",
+  "manufactureDate": "2015-08-03",
+  "engineSize": "2200",
+  "hasOutstandingRecall": "Unknown",
+  "motTests": [
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "915353589293",
+      "completedDate": "2024-08-01T11:33:57.000Z",
+      "expiryDate": "2025-08-03",
+      "odometerValue": "61501",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "764679416758",
+      "completedDate": "2023-07-31T12:53:03.000Z",
+      "expiryDate": "2024-08-03",
+      "odometerValue": "58067",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "747299140276",
+      "completedDate": "2022-07-13T15:04:21.000Z",
+      "expiryDate": "2023-08-03",
+      "odometerValue": "46426",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "215571455548",
+      "completedDate": "2022-07-13T11:01:22.000Z",
+      "expiryDate": null,
+      "odometerValue": "46427",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": true,
+          "text": "Front Brake pad(s) less than 1.5 mm thick (1.1.13 (a) (ii))",
+          "type": "DANGEROUS"
+        },
+        {
+          "dangerous": true,
+          "text": "Rear Brake pad(s) less than 1.5 mm thick (1.1.13 (a) (ii))",
+          "type": "DANGEROUS"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "102339557326",
+      "completedDate": "2021-07-08T09:41:27.000Z",
+      "expiryDate": "2022-08-03",
+      "odometerValue": "39808",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "841129342291",
+      "completedDate": "2020-07-06T13:48:42.000Z",
+      "expiryDate": "2021-08-03",
+      "odometerValue": "30661",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "830799584230",
+      "completedDate": "2020-07-06T13:48:41.000Z",
+      "expiryDate": null,
+      "odometerValue": "30661",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Windscreen wiper does not clear the windscreen effectively  (3.4 (b) (ii))",
+          "type": "PRS"
+        },
+        {
+          "dangerous": false,
+          "text": "Headlamp aim too low (4.1.2 (a))",
+          "type": "PRS"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "210277350151",
+      "completedDate": "2019-07-10T14:14:41.000Z",
+      "expiryDate": "2020-08-03",
+      "odometerValue": "23128",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "671178295097",
+      "completedDate": "2018-08-04T07:10:38.000Z",
+      "expiryDate": "2019-08-03",
+      "odometerValue": "19359",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Offside Rear Registration plate lamp inoperative in the case of multiple lamps or light sources (4.7.1 (b) (i))",
+          "type": "MINOR"
+        }
+      ]
+    }
+  ]
+}

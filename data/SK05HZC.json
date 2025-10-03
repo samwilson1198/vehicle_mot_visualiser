@@ -1,0 +1,686 @@
+{
+  "registration": "SK05HZC",
+  "make": "FORD",
+  "model": "FIESTA",
+  "firstUsedDate": "2005-03-03",
+  "fuelType": "Petrol",
+  "primaryColour": "Silver",
+  "registrationDate": "2005-03-03",
+  "manufactureDate": "2005-03-03",
+  "engineSize": "1242",
+  "hasOutstandingRecall": "Unknown",
+  "motTests": [
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "169810197040",
+      "completedDate": "2024-12-19T13:58:27.000Z",
+      "expiryDate": "2025-12-18",
+      "odometerValue": "143221",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "hand brake has no reserve travel",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Central Rear Stop lamp(s) non-obligatory stop lamp not working (4.3.1 (a) (ii))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Tyre worn close to legal limit/worn on edge (5.2.3 (e))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Track rod end ball joint has slight play (2.1.3 (b) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Brake pipe corroded, covered in grease or other material All brake pipes (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "underside of vehicle heavily undersealed",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Seat forward  and back  leaver loose (upright) advise to renew leaver",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "539751697228",
+      "completedDate": "2024-12-19T13:58:26.000Z",
+      "expiryDate": null,
+      "odometerValue": "143221",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "hand brake has no reserve travel",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Headlamp aim too low (4.1.2 (a))",
+          "type": "PRS"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Stop lamp(s) not working (4.3.1 (a) (ii))",
+          "type": "PRS"
+        },
+        {
+          "dangerous": false,
+          "text": "Central Rear Stop lamp(s) non-obligatory stop lamp not working (4.3.1 (a) (ii))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Tyre worn close to legal limit/worn on edge (5.2.3 (e))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Track rod end ball joint has slight play (2.1.3 (b) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Brake pipe corroded, covered in grease or other material All brake pipes (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "underside of vehicle heavily undersealed",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Windscreen washer not working no fluid (3.5 (a))",
+          "type": "PRS"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Seat forward  and back  leaver loose (upright) advise to renew leaver",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "481519122025",
+      "completedDate": "2024-12-02T11:29:50.000Z",
+      "expiryDate": null,
+      "odometerValue": "143202",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Windscreen washer provides insufficient washer liquid (3.5 (a))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Engine Warning Light On,On dash",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Driver's seat fore and aft adjustment mechanism not functioning as intended. (6.2.5 (b) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Lower Suspension arm ball joint dust cover severely deteriorated (5.3.4 (b) (i))",
+          "type": "MINOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Stop lamp(s) not working (4.3.1 (a) (ii))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Central Stop lamp(s) not working (4.3.1 (a) (ii))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Wiper Blade Defective",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate insecure but not likely to fall off (0.1 (a))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Brake pipe excessively corroded (1.1.11 (c))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Brake pipe excessively corroded (1.1.11 (c))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Rear Brake pipe inadequately clipped or supported (1.1.11 (d) (i))",
+          "type": "MINOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Lower Suspension arm pin or bush worn but not resulting in excessive movement Rear Bush (5.3.4 (a) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": true,
+          "text": "Nearside Front Tyre has ply or cords exposed (5.2.3 (d) (ii))",
+          "type": "DANGEROUS"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Track rod end ball joint has excessive play  (2.1.3 (b) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Subframe mounting prescribed area excessively corroded significantly reducing structural strength (5.3.6 (a) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Rear Subframe mounting prescribed area excessively corroded significantly reducing structural strength (5.3.6 (a) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Exhaust carbon monoxide content at idle exceeds manufacturer's specified limits  (8.2.1.2 (b))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Exhaust carbon monoxide content after 2nd fast idle exceeds default limits (8.2.1.2 (b))",
+          "type": "MAJOR"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "307392383291",
+      "completedDate": "2023-11-30T11:53:31.000Z",
+      "expiryDate": "2024-11-30",
+      "odometerValue": "132103",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Brake pipe corroded, covered in grease or other material (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Rear Brake pipe corroded, covered in grease or other material (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Brake disc worn, but not excessively (1.1.14 (a) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Inner Vehicle structure or chassis corroded within 30cm of a mounting, but not seriously affecting overall security axel mount (6.2.2 (d) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Rear Vehicle structure or chassis corroded within 30cm of a mounting, but not seriously affecting overall security axel mount (6.2.2 (d) (i))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "670781631346",
+      "completedDate": "2022-11-23T11:24:06.000Z",
+      "expiryDate": "2023-11-30",
+      "odometerValue": "120329",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Front Registration plate insecure but not likely to fall off (0.1 (a))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Tyre worn close to legal limit/worn on edge (5.2.3 (e))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Tyre worn close to legal limit/worn on edge (5.2.3 (e))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Tyre worn close to legal limit/worn on edge (5.2.3 (e))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "339111703394",
+      "completedDate": "2021-11-09T15:59:54.000Z",
+      "expiryDate": "2022-11-30",
+      "odometerValue": "106820",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Lower Registration plate deteriorated but not likely to be misread front and rear (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Upper Macpherson strut pin or bush worn but not resulting in excessive movement (5.3.4 (a) (i))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "877204131003",
+      "completedDate": "2021-11-04T14:10:59.000Z",
+      "expiryDate": null,
+      "odometerValue": "106800",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": true,
+          "text": "Nearside Front Tyre tread depth below requirements of 1.6mm (5.2.3 (e))",
+          "type": "DANGEROUS"
+        },
+        {
+          "dangerous": false,
+          "text": "Lower Registration plate deteriorated but not likely to be misread front and rear (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Axle swivel pins and bushes swivel pin and/or bush excessively worn both rear bushes (5.1.2 (b) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Track rod end ball joint has excessive play  (2.1.3 (b) (i))",
+          "type": "MAJOR"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Front Upper Macpherson strut pin or bush worn but not resulting in excessive movement (5.3.4 (a) (i))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "295315624933",
+      "completedDate": "2020-12-01T16:55:51.000Z",
+      "expiryDate": "2021-11-30",
+      "odometerValue": "96261",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Exhaust has a minor leak of exhaust gases (6.1.2 (a))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Suspension arm pin or bush worn but not resulting in excessive movement Both sides (5.3.4 (a) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Brake pipe corroded, covered in grease or other material all brake pipes (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "785262891589",
+      "completedDate": "2020-12-01T16:55:50.000Z",
+      "expiryDate": null,
+      "odometerValue": "96261",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Exhaust has a minor leak of exhaust gases (6.1.2 (a))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Suspension arm pin or bush worn but not resulting in excessive movement Both sides (5.3.4 (a) (i))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Brake pipe corroded, covered in grease or other material all brake pipes (1.1.11 (c))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Front Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Rear Registration plate deteriorated but not likely to be misread (0.1 (b))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Offside Front Headlamp not working on dipped beam (4.1.1 (a) (ii))",
+          "type": "PRS"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "492127385687",
+      "completedDate": "2019-11-28T10:13:19.000Z",
+      "expiryDate": "2020-11-29",
+      "odometerValue": "86979",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "421782045027",
+      "completedDate": "2019-11-28T10:13:18.000Z",
+      "expiryDate": null,
+      "odometerValue": "86979",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Front Windscreen washer provides insufficient washer liquid (3.5 (a))",
+          "type": "PRS"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "370328971103",
+      "completedDate": "2018-11-29T16:35:15.000Z",
+      "expiryDate": "2019-11-29",
+      "odometerValue": "75931",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Front Registration plate insecure but not likely to fall off (0.1 (a))",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Registration plate deteriorated but not likely to be misread both front and rear (0.1 (b))",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "514365683216",
+      "completedDate": "2017-11-30T11:01:51.000Z",
+      "expiryDate": "2018-11-29",
+      "odometerValue": "63867",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Front registration plate deteriorated but not likely to be misread (6.3.1d)",
+          "type": "ADVISORY"
+        },
+        {
+          "dangerous": false,
+          "text": "Nearside Rear Slight noise and roughness in wheel bearing",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "316296528314",
+      "completedDate": "2016-11-30T16:44:54.000Z",
+      "expiryDate": "2017-11-29",
+      "odometerValue": "50058",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Brake pipe slightly corroded (3.6.B.2c)",
+          "type": "ADVISORY"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "336959504161",
+      "completedDate": "2016-02-17T11:50:58.000Z",
+      "expiryDate": "2017-03-03",
+      "odometerValue": "49331",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "195664345467",
+      "completedDate": "2015-02-13T09:58:39.000Z",
+      "expiryDate": "2016-03-03",
+      "odometerValue": "47802",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "679501444002",
+      "completedDate": "2014-02-10T09:33:46.000Z",
+      "expiryDate": "2015-03-03",
+      "odometerValue": "46699",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "748343843022",
+      "completedDate": "2013-02-12T15:07:02.000Z",
+      "expiryDate": "2014-03-03",
+      "odometerValue": "43214",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "586088832046",
+      "completedDate": "2012-02-07T09:33:50.000Z",
+      "expiryDate": "2013-03-03",
+      "odometerValue": "37326",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "705093651086",
+      "completedDate": "2011-02-22T15:28:57.000Z",
+      "expiryDate": "2012-03-03",
+      "odometerValue": "31441",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "104740150033",
+      "completedDate": "2010-02-19T12:31:43.000Z",
+      "expiryDate": "2011-03-03",
+      "odometerValue": "25339",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "180501359400",
+      "completedDate": "2009-02-20T11:03:20.000Z",
+      "expiryDate": "2010-03-03",
+      "odometerValue": "18817",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "510681759095",
+      "completedDate": "2009-02-20T11:03:20.000Z",
+      "expiryDate": null,
+      "odometerValue": "18817",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "FAILED",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "dangerous": false,
+          "text": "Direction indicators incorrect colour (1.4.A.2f)",
+          "type": "PRS"
+        }
+      ]
+    },
+    {
+      "registrationAtTimeOfTest": null,
+      "motTestNumber": "600028658056",
+      "completedDate": "2008-02-27T09:34:16.000Z",
+      "expiryDate": "2009-03-03",
+      "odometerValue": "14012",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "testResult": "PASSED",
+      "dataSource": "DVSA",
+      "defects": []
+    }
+  ]
+}
