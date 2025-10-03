@@ -59,8 +59,8 @@ The notebook imports and uses the following Python packages:
 
 1. Put one of the example JSON files into the `data/` directory (or confirm the included files are present).
 2. Open the notebook:
-3. In the **Data Extraction and Processing** cell, choose the branch that loads a local JSON file (the notebook includes a prompt that asks for a filename — enter e.g. `MW02WVU.json`). Run the notebook cells in order.
-4. After the “Combined Visualisation and Output” cells run, the final plot will be saved to `outputs/{registration}.png` and the plot object displayed in the notebook.
+3. In the data extraction and processing cells, run cell 3 (and not cell 2), which loads a local JSON file (the notebook includes a prompt that asks for a filename — enter e.g. `MW02WVU.json`). Run the notebook cells in order.
+4. After the cells run, the final plot will be saved to `outputs/{registration}.png` and the plot object displayed in the notebook.
 
 ---
 
@@ -80,8 +80,8 @@ TOKEN_URL = "https://..."   # as required by the DVSA OAuth2 endpoint
 SCOPE = "..."               # if required
 ```
 
-3. Run the cells that obtain an access token and call the API. The notebook contains helper functions to request an OAuth2 token and then retrieve vehicle history from the endpoint.
-4. Proceed to the plotting cells — the notebook will save the combined plot under `outputs/{registration}.png`.
+3. Run cell 2 (and not cell 3), which will obtain an access token and call the API. The notebook contains helper functions to request an OAuth2 token and then retrieve vehicle history from the endpoint.
+4. Proceed to the plotting cells — the notebook will save the final plot under `outputs/{registration}.png`.
 
 ---
 
